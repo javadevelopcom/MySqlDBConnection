@@ -1,5 +1,3 @@
-# MySqlDBConnection
-Java IntelliJ IDEA Database Connectivity
 package ConnectionDB;
 
 import com.mysql.fabric.jdbc.FabricMySQLDriver;
